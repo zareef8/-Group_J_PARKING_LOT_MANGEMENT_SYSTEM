@@ -62,6 +62,10 @@ If the selection is 6: "Reports" feature is chosen and the program will take the
 
 ### Enter as Customer ####
 In the main start up menu if the selection is 2 "Enter as Customer" feature is chosen and a customer menu is shown where there are four options to choose from.
+
+![customer](https://user-images.githubusercontent.com/71241275/102698374-d07ea900-420a-11eb-9cbb-f6131515a0f4.jpg)
+
+
 ##### Arrival of a Vehicle
   If the selection is 1: "Arrival of a Vehicle" feature is chosen and this means the customer wants to enter the parking lot. The program will ask for their name and   license plate which will be used to record thier information and upon successful entry "Vehicle parked successfully" will be displayed. Press any key to go back to   the main startup menu.
 ##### Departure of a Vehicle  
