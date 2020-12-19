@@ -51,6 +51,9 @@ If selection is 5: "Blacklist" feature is chosen and the pogram will take you to
 ##### Reports
 If the selection is 6: "Reports" feature is chosen and the program will take the admin to the reports menu where there are three options to choose from.
 
+![reports](https://user-images.githubusercontent.com/71241275/102698335-931a1b80-420a-11eb-9ff5-bc14072b2e77.jpg)
+
+
   If the selection is 1: "Standard Deviation" is chosen and the program will return the standard deviation of the total parked time of all vehicles which have parked   in the lot. Press any key to go back to the main startup menu.
   
   If the selection is 2: "Average park time" is chosen and the program will display the average of the total time of park for all vehicles which have parked in the     lot. Press any key to go back to the main startup menu.
