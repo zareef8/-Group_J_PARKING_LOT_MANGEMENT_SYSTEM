@@ -18,6 +18,8 @@ More infornmation about the features and how to use them is given in the Usage s
 # Usage #
 After Running the program the following welcome screen and menu is shown:
 
+![mysc](https://user-images.githubusercontent.com/71241275/102698139-24888e00-4209-11eb-80d7-6227cf06722a.jpg)
+
 The program will allow you to choose from the following options 1,2 and 3 as shown.
 After the choice is entered the following occurs depending on the choice.
 
