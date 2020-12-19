@@ -1,8 +1,21 @@
 # Group_J_PARKING_LOT_MANGEMENT_SYSTEM #
 
-This software project is a part of the fullfilment for the course SYSC5709 Softwatre Development in C at Carleton University. The program is a parking lot management system which will help parking lot owners to manage thier lots effectively and efficiently. 
+The software program is a parking lot management system which will help parking lot owners to manage thier lots effectively and efficiently. 
 
-# Description #
+# Organization #
+Carleton Univeristy
+
+# Authors#
+
+  -Arif Rubayet 
+  
+  -Christopher Owoicho  
+
+  -Michael Schrier 
+ 
+  -Zareef Al Islam 
+
+# Brief Description #
 The program consists of features for both an Admins and the Clients of the parking lot. 
 The program keeps records of all the vehicles entering and exiting the parking lot at all times. 
 The current status of the parking lot can be seen i.e The number of spots left. 
@@ -11,7 +24,20 @@ Admins of the lot can login using a password and will be able access features li
 Admis can also see certain reports for the parking lot like: The average time parked, the standard deviation and displaying vehicles fot the last 30 days.
 More infornmation about the features and how to use them is given in the Usage section.
 
-
+# File Organization
+/bin
+/build
+/doc (if needed)
+/src (you can have subfolders for better organization)
+/include (you can have subfolders for better organization)
+/data
+/test
+/include (you can have subfolders for better organization)
+/src (you can have subfolders for better organization)
+/data
+/lib (if needed) (you can have subfolders for better organization)
+makefile or cmakefile (Just one makefile for the whole project)
+README
 # Installation # 
 
 
@@ -74,9 +100,5 @@ In the main start up menu if the selection is 2 "Enter as Customer" feature is c
   If the selection is 3: "Number of space available" feature is chosen and the program displays the total number of parking spots available in the lot. Press any key   to go back to the main startup menu.
 ##### Add monthly pass
   If the selection is 4: "Add monthly Pass" feature is chosen and the program will ask to enter customer name and license plate which must be valid and exist in the     record. If the inputs are valid the pprogram will ask to enter Y or N to purchase a 100 dollar monthly pass. If Y is chosen the pass is added to the customer if N     is chosen then pass is not added.Press any key to go back to the main startup menu.
-
-
-# Credits 
-
 
 # License 
