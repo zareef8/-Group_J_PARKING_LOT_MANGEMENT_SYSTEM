@@ -41,6 +41,8 @@ If selection is 4: "Delete All Records" feature is chosen and the program will d
 ##### Blacklist
 If selection is 5: "Blacklist" feature is chosen and the pogram will take you to the blacklist menu as shown. From there there will be three options to choose from:
   
+  ![blacklist](https://user-images.githubusercontent.com/71241275/102698292-47677200-420a-11eb-8775-678766cc2d40.jpg)
+
   If selection is 1: "Black List Vehicle " is chosen and the prgoram will allow the admin to enter a valid license plate and and blacklist the vehicle. This will make   sure the blacklisted vehicle cannot enter the lot unitl the vehicle removed from the blacklist.If an invalid license plate is given the program will display "Error   ! Data not found.".Press any key to go back to the main startup menu.
  
   If selection is 2: "Remove From Blacklist" is chosen, the program will allow the admin to enter a valid license plate which is already blacklisted to be removed       from the list.If an invalid license plate is given the program will display "Error   ! Data not found". Press any key to go back to the main startup menu.
