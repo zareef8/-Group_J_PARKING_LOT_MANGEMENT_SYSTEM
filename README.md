@@ -16,7 +16,7 @@ More infornmation about the features and how to use them is given in the Usage s
 
 
 # Usage #
-After Running the program the following welcome screen and menu is shown:
+After Running the program the  welcome screen is shown. Press any key to view the main startup menu :
 
 ![mysc](https://user-images.githubusercontent.com/71241275/102698139-24888e00-4209-11eb-80d7-6227cf06722a.jpg)
 
