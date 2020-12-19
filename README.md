@@ -26,6 +26,10 @@ After the choice is entered the following occurs depending on the choice.
 ### Enter as Admin ###
 If selection is 1: The "Enter as Admin" feature is chosen. Next, the program will ask for the fixed admin password which is "111".
 After entering the correct password you will be able to access the admin menu which is shown below and can enter your choice from 1-6 to select from the given features
+
+![admin](https://user-images.githubusercontent.com/71241275/102698223-da53dc80-4209-11eb-8e31-017ef75903f5.jpg)
+
+
 ##### Display current Vehicles
 If selection is 1: "Display current Vehicles" feature is chosen and the program will display all information for vehciles which are currently parked in the lot. Press any key to go back to the main startup menu.
 ##### Display all Drivers profile data
