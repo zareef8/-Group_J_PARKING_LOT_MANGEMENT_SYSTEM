@@ -43,7 +43,7 @@ README
 
 # Usage #
 
-After successful installation the program is ready to use. The step by step user manual can be found here : https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--Parking-lot-management-system-software
+After successful installation the program is ready to use. The step by step user manual can be found here : https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual
 
 User Manual for testing the software can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--Testing
 
