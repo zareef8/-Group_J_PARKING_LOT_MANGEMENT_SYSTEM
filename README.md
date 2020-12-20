@@ -26,17 +26,29 @@ More infornmation about the features and how to use them is given in the Usage s
 
 # File Organization
 /bin
+
 /build
+
 /doc (if needed)
+
 /src (you can have subfolders for better organization)
+
 /include (you can have subfolders for better organization)
+
 /data
+
 /test
+
 /include (you can have subfolders for better organization)
+
 /src (you can have subfolders for better organization)
+
 /data
+
 /lib (if needed) (you can have subfolders for better organization)
+
 makefile or cmakefile (Just one makefile for the whole project)
+
 README
 # Installation # 
 
