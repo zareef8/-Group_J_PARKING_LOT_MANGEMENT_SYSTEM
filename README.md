@@ -44,11 +44,25 @@ More infornmation about the features and how to use them is given in the Usage s
 /README.md
 
 # Installation # 
+To run the code you must download cygwin and have a GCC Compiler.
 
+You can download and install cygwin from here :
+
+The code can be downloaded from the github repository
+
+Open the cygwin terminal and change the directory to the folder where the files are stored
+
+Then type in the command to compile and run the main program in the terminal
+make runcode
+
+For the test program type in the following command to compile and run it in the terminal
+make runtest
+
+After running the step by step instructions are given in the Usage section
 
 # Usage #
 
-After successful installation the program is ready to use. The step by step user manual can be found here : https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual
+After successful compilation the program is ready to use. The step by step user manual can be found here : https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual
 
 User Manual for testing the software can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--Testing
 
