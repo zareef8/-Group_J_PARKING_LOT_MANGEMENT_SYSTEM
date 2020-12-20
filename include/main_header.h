@@ -51,5 +51,5 @@ struct node {
 	struct Customer c;
 	struct node *next;
 };
-
+struct node *head = NULL;
 #endif // MAIN_HEADER_H_INCLUDED
