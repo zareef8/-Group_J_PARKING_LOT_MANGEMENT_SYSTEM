@@ -24,32 +24,25 @@ Admins of the lot can login using a password and will be able access features li
 Admis can also see certain reports for the parking lot like: The average time parked, the standard deviation and displaying vehicles fot the last 30 days.
 More infornmation about the features and how to use them is given in the Usage section.
 
-# File Organization
+# File Organization  
 /bin
 
 /build
 
-/doc (if needed)
+/doc 
 
-/src (you can have subfolders for better organization)
+/src
 
-/include (you can have subfolders for better organization)
+/include 
 
 /data
 
 /test
 
-/include (you can have subfolders for better organization)
+/makefile 
 
-/src (you can have subfolders for better organization)
+/README.md
 
-/data
-
-/lib (if needed) (you can have subfolders for better organization)
-
-makefile or cmakefile (Just one makefile for the whole project)
-
-README
 # Installation # 
 
 
