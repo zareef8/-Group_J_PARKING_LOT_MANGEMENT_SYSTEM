@@ -54,3 +54,4 @@ User Manual for testing the software can be found here: https://github.com/zaree
 
 Instrucitons for developers can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/Developer-Guide
 # License 
+ [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
