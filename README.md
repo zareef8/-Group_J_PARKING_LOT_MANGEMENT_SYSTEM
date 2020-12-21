@@ -50,7 +50,8 @@ Then type in the command to compile and run the main program in the terminal
 make runcode
 ```
 
-![newtestcode](https://user-images.githubusercontent.com/71241275/102734770-a0203300-430e-11eb-800d-09361a5ed0c1.jpg)
+![qqqqqqqqqqqq](https://user-images.githubusercontent.com/71241275/102737215-cba61c00-4314-11eb-980e-8d6e2b77fb71.jpg)
+
 
 
 
