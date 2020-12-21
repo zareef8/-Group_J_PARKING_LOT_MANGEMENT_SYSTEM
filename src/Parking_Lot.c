@@ -841,7 +841,7 @@ int main()
 	fclose(fptr);
 	while (initialOption != 3)
 	{
-		system("cls");
+		//system("cls");
 		initial_menu();
 		scanf("%d", &initialOption);
 		switch (initialOption)
