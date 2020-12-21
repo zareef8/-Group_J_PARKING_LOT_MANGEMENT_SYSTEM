@@ -854,7 +854,7 @@ void test_menu()
 
 int main()
 {
-    system("color 0B");
+    //system("color 0B");
 
     printf("+=================================================+\n");
     printf("\n");
