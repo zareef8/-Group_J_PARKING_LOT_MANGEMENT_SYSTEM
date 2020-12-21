@@ -70,5 +70,13 @@ After successful compilation the program is ready to use. The step by step user 
 User Manual for testing the software can be found here:https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--For-Testing
 
 Instrucitons for developers can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/Developer-Guide
+
+# Assumptions #
+* The program will be used for a parking lot that can hold 100 vechicles
+* The program will be used for parking lots with a parking fare of
+* The system time will always be accurate
+* There is no force shutdown of the program
+* Customers and admins are entering the correct information where they are required to.
+
 # License 
  [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
