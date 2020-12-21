@@ -48,7 +48,7 @@ To run the code you must download cygwin and have a GCC Compiler.
 
 You can download and install cygwin from here :
 
-The code can be downloaded from the github repository
+The code can be downloaded from the github repository:
 
 Open the cygwin terminal and change the directory to the folder where the files are stored
 
@@ -58,13 +58,13 @@ make runcode
 For the test program type in the following command to compile and run it in the terminal
 make runtest
 
-After running the step by step instructions are given in the Usage section
+After running the step by step instructions are given in the User Manual. Please make sure that the data.txt file is not removed from the /bin folder.
 
 # Usage #
 
 After successful compilation the program is ready to use. The step by step user manual can be found here : https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual
 
-User Manual for testing the software can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--Testing
+User Manual for testing the software can be found here:https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--For-Testing
 
 Instrucitons for developers can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/Developer-Guide
 # License 
