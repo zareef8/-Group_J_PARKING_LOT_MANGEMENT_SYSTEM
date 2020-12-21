@@ -73,9 +73,9 @@ Instrucitons for developers can be found here: https://github.com/zareef8/Group_
 
 # Assumptions #
 * The program will be used for a parking lot that can hold 100 vechicles
-* The program will be used for parking lots with a parking fare of
-* The system time will always be accurate
-* There is no force shutdown of the program
+* The program will be used for parking lots with a parking fare of 10 dollars per hour
+* The system time will always be accurate which is directly taken only from the system.
+* There is no force shutdown of the program 
 * Customers and admins are entering the correct information where they are required to.
 
 # License 
