@@ -52,11 +52,21 @@ The code can be downloaded from the github repository: https://github.com/zareef
 
 Open the cygwin terminal and change the directory to the folder where the files are stored
 
+![changedirruncode](https://user-images.githubusercontent.com/71241275/102730737-ad83f000-4303-11eb-8b32-361cabbcba17.jpg)
+
 Then type in the command to compile and run the main program in the terminal
+
+```
 make runcode
+```
+
+![changedirruntest](https://user-images.githubusercontent.com/71241275/102730753-bf659300-4303-11eb-9a71-a79e7a1d459d.jpg)
 
 For the test program type in the following command to compile and run it in the terminal
+
+```
 make runtest
+```
 
 After running the step by step instructions are given in the User Manual. Please make sure that the data.txt file is not removed from the /bin folder.
 
