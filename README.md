@@ -25,28 +25,18 @@ Admis can also see certain reports for the parking lot like: The average time pa
 More infornmation about the features and how to use them is given in the Usage section.
 
 # File Organization  
-/bin
 
-/build
+![directiryyy](https://user-images.githubusercontent.com/71241275/102732806-a95ad100-4309-11eb-9551-f4622550f91c.jpg)
 
-/doc 
-
-/src
-
-/include 
-
-/data
-
-/test
-
-/makefile 
-
-/README.md
 
 # Installation # 
-To run the code you must download cygwin and have a GCC Compiler.
+
+### Download Cygwin
+To run the code you must download cygwin, have a GCC Compiler and GNUmake
 
 You can download and install cygwin from here : https://cygwin.com/install.html
+
+### Download code files
 
 The code can be downloaded from the github repository: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM
 
