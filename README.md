@@ -46,9 +46,9 @@ More infornmation about the features and how to use them is given in the Usage s
 # Installation # 
 To run the code you must download cygwin and have a GCC Compiler.
 
-You can download and install cygwin from here :
+You can download and install cygwin from here : https://cygwin.com/install.html
 
-The code can be downloaded from the github repository:
+The code can be downloaded from the github repository: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM
 
 Open the cygwin terminal and change the directory to the folder where the files are stored
 
