@@ -24,28 +24,48 @@ Admins of the lot can login using a password and will be able access features li
 Admis can also see certain reports for the parking lot like: The average time parked, the standard deviation and displaying vehicles fot the last 30 days.
 More infornmation about the features and how to use them is given in the Usage section.
 
-# File Organization
+# File Organization  
 /bin
-/build
-/doc (if needed)
-/src (you can have subfolders for better organization)
-/include (you can have subfolders for better organization)
-/data
-/test
-/include (you can have subfolders for better organization)
-/src (you can have subfolders for better organization)
-/data
-/lib (if needed) (you can have subfolders for better organization)
-makefile or cmakefile (Just one makefile for the whole project)
-README
-# Installation # 
 
+/build
+
+/doc 
+
+/src
+
+/include 
+
+/data
+
+/test
+
+/makefile 
+
+/README.md
+
+# Installation # 
+To run the code you must download cygwin and have a GCC Compiler.
+
+You can download and install cygwin from here :
+
+The code can be downloaded from the github repository
+
+Open the cygwin terminal and change the directory to the folder where the files are stored
+
+Then type in the command to compile and run the main program in the terminal
+make runcode
+
+For the test program type in the following command to compile and run it in the terminal
+make runtest
+
+After running the step by step instructions are given in the Usage section
 
 # Usage #
 
-After successful installation the program is ready to use. The step by step user manual can be found here : https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--Parking-lot-management-system-software
+After successful compilation the program is ready to use. The step by step user manual can be found here : https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual
 
 User Manual for testing the software can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/User-Manual--Testing
 
 Instrucitons for developers can be found here: https://github.com/zareef8/Group_J_PARKING_LOT_MANGEMENT_SYSTEM/wiki/Developer-Guide
 # License 
+ [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)

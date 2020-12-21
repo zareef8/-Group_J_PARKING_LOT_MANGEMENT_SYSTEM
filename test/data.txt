@@ -1,0 +1,50 @@
+MAC
+200LM
+Departed
+Sat Dec 19 22:23:25 2020
+Sat Dec 19 23:20:53 2020
+No
+No
+9.60
+57.47
+353
+CHRIS
+179LM
+Departed
+Sat Dec 19 22:01:49 2020
+Sat Dec 19 22:20:16 2020
+No
+No
+3.08
+18.45
+353
+MICHAEL
+169LM
+Departed
+Sat Dec 19 22:01:41 2020
+Sat Dec 19 22:20:16 2020
+Yes
+No
+3.10
+18.58
+353
+ZAREEF
+159LM
+Departed
+Sat Dec 19 22:01:30 2020
+Sat Dec 19 22:20:16 2020
+No
+No
+3.13
+18.77
+353
+ARIF
+149LM
+Departed
+Sat Dec 19 22:01:20 2020
+Sat Dec 19 22:20:16 2020
+No
+Yes
+3.16
+18.93
+353
