@@ -7,13 +7,13 @@ Carleton Univeristy & University of Ottawa
 
 # Authors #
 
-  -Arif Rubayet 
+  * Arif Rubayet 
   
-  -Christopher Owoicho  
+  * Christopher Owoicho  
 
-  -Michael Schrier 
+  * Michael Schrier 
  
-  -Zareef Al Islam 
+  * Zareef Al Islam 
 
 # Brief Description #
 The program consists of features for both an Admins and the Clients of the parking lot. 
