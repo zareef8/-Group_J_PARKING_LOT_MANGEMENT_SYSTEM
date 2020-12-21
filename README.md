@@ -50,7 +50,9 @@ Then type in the command to compile and run the main program in the terminal
 make runcode
 ```
 
-![changedirruntest](https://user-images.githubusercontent.com/71241275/102730753-bf659300-4303-11eb-9a71-a79e7a1d459d.jpg)
+![newtestcode](https://user-images.githubusercontent.com/71241275/102734770-a0203300-430e-11eb-800d-09361a5ed0c1.jpg)
+
+
 
 For the test program type in the following command to compile and run it in the terminal
 
